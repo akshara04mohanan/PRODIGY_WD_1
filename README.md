@@ -1,5 +1,5 @@
 # PRODIGY_WD_1
-# 🌐 Tech Company Landing Page
+# 🌐 Tech Company Landing Page- prodigy-wd-1-six.vercel.app
 
 A simple and responsive landing page for a tech company, built using HTML, CSS, and JavaScript.
 
